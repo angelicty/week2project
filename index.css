@@ -1,3 +1,9 @@
-.bg {
-    <img class="irc_mi" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" alt="Image result for Ghanaian flag background image" width="450" height="300" style="margin-top: 99px;" data-iml="1563610246573">
+body {background-image: url(flag.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-weight:500;
+}
+
+.btn-lg{
+    background-color:rgba(255,255,255,0.5);
 }
